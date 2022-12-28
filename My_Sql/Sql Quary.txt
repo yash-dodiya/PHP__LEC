@@ -1,0 +1,54 @@
+The following are the list of SQL Keys:
+
+Primary Key -> unique and not null
+Unique Key -> allow null at once
+Candidate Key -> Candidate Key can be a column or group of columns that can qualify for the Unique Key.
+Alternate Key -> Alternate Key is that Key which can be used as a Primary Key if required
+Composite Key -> Composite Key is also known as Compound Key / Concatenated Key
+Super Key -> key of key
+Foreign Key -> one table PK will be act as FK for the other Super Key is a combination of columns, each column of the table remains dependent on it. 
+
+
+Create Database
+	CREATE DATABASE dec1php2022
+
+// CREATE TABLE users(id int);
+
+DROP TABLE users;
+
+ALTER TABLE users ADD adddhar_card varchar(50);
+
+ALTER TABLE users CHANGE adddhar_card aadharchard varchar(1);
+
+ALTER TABLE users DROP aadharchard 
+
+ALTER TABLE `users` ADD `aadhar_card` VARCHAR(50) NOT NULL AFTER `mobile`;
+
+DELETE FROM users WHERE `users`.`id` = 1
+
+TRUNCATE TABLE users;
+
+INSERT INTO `users` (`id`, `username`, `gender`, `mobile`, `aadhar_card`) VALUES (NULL, 'test', 'male', '9879879878', 'card');
+
+RENAME TABLE `dec1php2022`.`users` TO `dec1php2022`.`users_tbl`;
+
+ALTER TABLE users_tbl ADD role_id  enum('1','2') NOT NULL;
+
+ALTER TABLE `users_tbl` CHANGE `role_id` `role_id` ENUM('1','2') CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NOT NULL COMMENT '1 for the admin 2 for the users';
+
+
+
+01Dec_laravel_TTS9/Queries.txt at main · jay-amin-tops/01Dec_laravel_TTS9
+
+
+
+
+
+         1)        join table quary:::------
+
+                 SELECT * FROM `employee`JOIN incentive ON employee.em_id=incentive.employee_ref_id;
+
+         2)        select all quary::---
+                   
+                 SELECT * FROM (table name);
+    
