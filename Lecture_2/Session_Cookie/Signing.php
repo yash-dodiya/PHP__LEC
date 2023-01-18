@@ -15,18 +15,6 @@ else{
 }
 
 
-if(isset($_REQUEST['btn-save']))
-{
-     if($_POST['username']=="dodiya yash" && $_REQUEST['password']=="0000")
-     {
-        $_SESSION['userdata']=array("username"=>$_POST['username'],"password"=>$_REQUEST['password']);
-        header("location:about.php");
-     }
-     else{
-        echo "invalied choice:";
-     }
-}
-
 
 ?>
 
