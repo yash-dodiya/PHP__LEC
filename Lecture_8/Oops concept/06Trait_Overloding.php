@@ -25,7 +25,7 @@ class yash{
     // }
      
 }
-$obj=new yash;
+$obj=new yash;  
 $obj->sayhello();
 
 
