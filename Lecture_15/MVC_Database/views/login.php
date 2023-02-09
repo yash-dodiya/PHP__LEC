@@ -197,8 +197,8 @@
             text-align: center;
             color: red ;
         }
-        .row{
-            display:flex;
+        /* .row{
+            display:flex; */
             /* flex-wrap:wrap; */
         }
     </style>
@@ -208,86 +208,7 @@
     <div class="cubes"></div>
     <div class="cubes"></div>
       <div class="row">
-    <form method = "post">
-            <div class="ic">
-                <a href="home"><i class="fa-sharp fa-solid fa-house-chimney"></i></a>
-            </div>  
-        <h2 class="colorgreen">user detail</h2>
-        <div class="inputdiv">
-            <div>
-                <input type="text" name = "first_name" placeholder="first name" />
-            </div>
-            <div>
-                <input type="text" name = "last_name" placeholder="last name" />
-            </div>
-            <div>
-                <input type="text" name = "email" placeholder="Your Email" />
-            </div>
-            <div class="emailcont">
-                <input type="password" name= "f_password" class="inputtext" placeholder="Your Password" />
-            </div>
-            <div class="emailcont">
-                <input type="password" name= "l_password" class="inputtext" placeholder="re-type Password" />
-                <div class="eyeicon">
-                    <ion-icon id="eyeoff" name="eye-off-outline"></ion-icon>
-                    <ion-icon id="eyeon" name="eye-outline"></ion-icon>
-                </div>
-            </div>
-            <div class="slidecontainer">
-            <p style="text-align:start;">your age : <span id="demo"></span></p> 
-                <input type="range" name="age" min="18" max="100" value="18" class="slider" id="myRange">
-            </div>
-            <div>
-                <input type="date" name="Dob"/>
-            </div>
-            <div class="option">
-                <p style = "padding-right: 20px;">Choose a city : </p>
-                <select id = "city" name="city">
-                    <option value="Ahmedabad">Ahmedabad</option>
-                    <option value="Surat">Surat</option>
-                    <option value="Vadodara">Vadodara </option>
-                    <option value="somnath(gir)">somnath(gir)</option>
-                    <option value="junagadh">junagadh</option>
-                    <option value="rajkot">rajkot</option>
-                    <option value="porbandar">porbandar</option>
-                    <option value="amreli">amreli</option>
-                    <option value="bhavnagr">bhavnagr</option>
-                    
-                </select>
-            </div>
-            <div class="redio">
-                <p style = "padding-right: 20px;">gender</p>
-                <div class="a">
-                    <input type="radio" id="male" name="gender" value="male">
-                    <label for="male">MALE</label>
-                </div>
-                <div class="a">
-                    <input type="radio" id="css" name="gender" value="female">
-                    <label for="female">FEMALE</label>
-                </div>
-            </div>
-            <div class="check">
-                <p>language</p>
-                <div class="a">
-                    <input type="checkbox" id="language[]" name="language[]" value="html">
-                    <label for="language[]">html</label>
-                </div>
-                <div class="a">
-                    <input type="checkbox" id="language[]" name="language[]" value="css">
-                    <label for="language[]">css</label>
-                </div>
-                <div class="a">
-                    <input type="checkbox" id="language[]" name="language[]" value="php">
-                    <label for="language[]">php</label>
-                </div>
-                <div class="a">
-                    <input type="checkbox" id="language[]" name="language[]" value="java">
-                    <label for="language[]">java</label>
-                </div>
-            </div>
-        </div>
-        <button name="submit">submit</button>
-    </form>
+
         <form method = "post">
             <div class="ic">
                 <a href="home"><i class="fa-sharp fa-solid fa-house-chimney"></i></a>
@@ -349,20 +270,20 @@
             <div class="check">
                 <p>language</p>
                 <div class="a">
-                    <input type="checkbox" id="language[]" name="language[]" value="html">
-                    <label for="language[]">html</label>
+                    <input type="checkbox" id="html" name="language[]" value="html">
+                    <label for="html">html</label>
                 </div>
                 <div class="a">
-                    <input type="checkbox" id="language[]" name="language[]" value="css">
-                    <label for="language[]">css</label>
+                    <input type="checkbox" id="css" name="language[]" value="css">
+                    <label for="css">css</label>
                 </div>
                 <div class="a">
-                    <input type="checkbox" id="language[]" name="language[]" value="php">
-                    <label for="language[]">php</label>
+                    <input type="checkbox" id="php" name="language[]" value="php">
+                    <label for="php">php</label>
                 </div>
                 <div class="a">
-                    <input type="checkbox" id="language[]" name="language[]" value="java">
-                    <label for="language[]">java</label>
+                    <input type="checkbox" id="java" name="language[]" value="java">
+                    <label for="java">java</label>
                 </div>
             </div>
         </div>
