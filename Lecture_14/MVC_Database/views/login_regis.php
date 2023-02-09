@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/js/bootstrap.min.js"></script>
@@ -293,6 +294,13 @@ button.ghost {
     color: red;
     margin:auto
 }
+.ic{
+    padding-left:89%;
+    font-size:20px;
+    padding-top:10px;
+    color:red;
+   
+}
 
 /* https://Github.com/YasinDehfuli
 	 https://Codepen.io/YasinDehfuli */
@@ -301,25 +309,28 @@ button.ghost {
 <body>
 <body>
 <!-- Animated Wave Background  -->
+
 <div class="ocean">
     <div class="wave"></div>
     <div class="wave"></div>
 </div>
 <!-- Log In Form Section -->
 <section>
+    
     <div class="container" id="container">
         <div class="form-container sign-up-container">
+            
             <form method="post">
-            <div class="aa">
-
-            </div>
-
+                 <div class="ic">          
+                      <a href="home"><i class="fa-solid fa-house"></i></a>
+                 </div>
                 <h1>Sign Up</h1>
                 <div class="social-container">
                     <a href="https://Github.com/YasinDehfuli" target="_blank" class="social"><i class="fab fa-github"></i></a>
                     <a href="https://Codepen.io/YasinDehfuli" target="_blank" class="social"><i class="fab fa-codepen"></i></a>
                     <a href="mailto:Ydehfuli@gmail.com" target="_blank" class="social"><i class="fab fa-google"></i></a>
                 </div>
+                
                 <span>Or use your Email for registration</span>
                 <label>
                     <input type="text" name="username" placeholder="Name"/>

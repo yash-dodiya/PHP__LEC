@@ -1,0 +1,16 @@
+
+Error_message >>Unknown database 'ysh'
+ Error_date/time >>08-02-2023 12:0:th PM
+<<=====================================================================>>
+
+Error_message >>Unknown database 'ysh'
+ Error_date/time >>08-02-2023 12:0:th PM
+<<=====================================================================>>
+
+Error_message >>Table 'yash.testijng' doesn't exist
+ Error_date/time >>08-02-2023 12:0:th PM
+<<=====================================================================>>
+
+Error_message >>Unknown column 'Array' in 'field list'
+ Error_date/time >>08-02-2023 13:0:th PM
+<<=====================================================================>>
