@@ -1,7 +1,38 @@
 <?php
 
+// echo "<pre>";
+// print_r($_SERVER['PATH_INFO']);
+// echo "</pre>";
 
-class controller{
+
+// class controller{
+//     public function __construct(){
+
+//         if(isset($_SERVER['PATH_INFO'])){
+//              switch($_SERVER['PATH_INFO']){
+//                 case '/home':        
+//                  include_once("views/header.php");
+//                  include_once("views/main.php");
+//                  include_once("views/footer.php");
+//                  break;
+                 
+//                case '/about':
+//                 include_once("views/header.php");
+//                 include_once("views/about.php");
+//                 include_once("views/footer.php");
+//                 break;
+//              }
+//         }
+//         else{
+//            header("location:home");
+//         }
+//     }
+// }
+// $obj=new controller;
+
+
+    class controller{
+
         public function __construct(){
             if(isset($_SERVER["PATH_INFO"])){
                 switch ($_SERVER["PATH_INFO"]) {

@@ -1,6 +1,4 @@
 <?php
-
-
     class controller{
         public $base_url="";
         public function __construct(){

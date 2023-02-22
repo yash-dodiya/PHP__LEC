@@ -1,0 +1,32 @@
+
+Error_message >>Unknown column 'lang' in 'field list'
+ Error_date/time >>09-02-2023 13:0:th PM
+<<=====================================================================>>
+
+Error_message >>Unknown column 'lang' in 'field list'
+ Error_date/time >>09-02-2023 14:0:th PM
+<<=====================================================================>>
+
+Error_message >>CONSTRAINT `user_det.language` failed for `yash`.`user_det`
+ Error_date/time >>09-02-2023 14:0:th PM
+<<=====================================================================>>
+
+Error_message >>CONSTRAINT `user_det.language` failed for `yash`.`user_det`
+ Error_date/time >>09-02-2023 14:0:th PM
+<<=====================================================================>>
+
+Error_message >>CONSTRAINT `user_det.language` failed for `yash`.`user_det`
+ Error_date/time >>09-02-2023 14:0:th PM
+<<=====================================================================>>
+
+Error_message >>CONSTRAINT `user_det.language` failed for `yash`.`user_det`
+ Error_date/time >>09-02-2023 15:0:th PM
+<<=====================================================================>>
+
+Error_message >>CONSTRAINT `user_det.language` failed for `yash`.`user_det`
+ Error_date/time >>09-02-2023 15:0:th PM
+<<=====================================================================>>
+
+Error_message >>CONSTRAINT `user_det.language` failed for `yash`.`user_det`
+ Error_date/time >>09-02-2023 16:0:th PM
+<<=====================================================================>>
