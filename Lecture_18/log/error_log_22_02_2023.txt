@@ -1,0 +1,48 @@
+
+Error Message  >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Error DateTime >> 22-Feb-2023 14:30:28 PM
+>> ======================================= <<
+
+Error Message  >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Error DateTime >> 22-Feb-2023 14:37:57 PM
+>> ======================================= <<
+
+Error Message  >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Error DateTime >> 22-Feb-2023 14:41:16 PM
+>> ======================================= <<
+
+Error Message  >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Error DateTime >> 22-Feb-2023 14:44:28 PM
+>> ======================================= <<
+
+Error Message  >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Error DateTime >> 22-Feb-2023 14:52:16 PM
+>> ======================================= <<
+
+Error Message  >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Error DateTime >> 22-Feb-2023 14:53:39 PM
+>> ======================================= <<
+
+Error Message  >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Error DateTime >> 22-Feb-2023 14:53:40 PM
+>> ======================================= <<
+
+Error Message  >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Error DateTime >> 22-Feb-2023 14:53:40 PM
+>> ======================================= <<
+
+Error Message  >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Error DateTime >> 22-Feb-2023 14:53:40 PM
+>> ======================================= <<
+
+Error Message  >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Error DateTime >> 22-Feb-2023 14:54:15 PM
+>> ======================================= <<
+
+Error Message  >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Error DateTime >> 22-Feb-2023 14:54:17 PM
+>> ======================================= <<
+
+Error Message  >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Error DateTime >> 22-Feb-2023 14:54:40 PM
+>> ======================================= <<

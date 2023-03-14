@@ -1,0 +1,44 @@
+
+Error Message  >> Table 'yash.users' doesn't exist
+Error DateTime >> 18-Feb-2023 10:19:08 AM
+>> ======================================= <<
+
+Error Message  >> Table 'yash.users' doesn't exist
+Error DateTime >> 18-Feb-2023 10:19:18 AM
+>> ======================================= <<
+
+Error Message  >> Table 'yash.users' doesn't exist
+Error DateTime >> 18-Feb-2023 10:19:32 AM
+>> ======================================= <<
+
+Error Message  >> Table 'yash.users' doesn't exist
+Error DateTime >> 18-Feb-2023 11:24:11 AM
+>> ======================================= <<
+
+Error Message  >> Table 'yash.users' doesn't exist
+Error DateTime >> 18-Feb-2023 11:25:38 AM
+>> ======================================= <<
+
+Error Message  >> Unknown column 'mobile' in 'where clause'
+Error DateTime >> 18-Feb-2023 11:27:56 AM
+>> ======================================= <<
+
+Error Message  >> Unknown column 'password' in 'where clause'
+Error DateTime >> 18-Feb-2023 11:28:40 AM
+>> ======================================= <<
+
+Error Message  >> Unknown column 'ckd' in 'field list'
+Error DateTime >> 18-Feb-2023 22:57:36 PM
+>> ======================================= <<
+
+Error Message  >> Unknown column 'ckd' in 'field list'
+Error DateTime >> 18-Feb-2023 23:05:43 PM
+>> ======================================= <<
+
+Error Message  >> Unknown column 'mobile' in 'where clause'
+Error DateTime >> 18-Feb-2023 23:28:07 PM
+>> ======================================= <<
+
+Error Message  >> Unknown column 'mobile' in 'where clause'
+Error DateTime >> 18-Feb-2023 23:28:17 PM
+>> ======================================= <<
