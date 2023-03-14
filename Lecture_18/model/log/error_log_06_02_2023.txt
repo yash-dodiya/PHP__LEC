@@ -1,0 +1,56 @@
+
+error message >> Unknown database 'rcord'
+error datetime >> 06-Feb-2023 10:24:03 AM
+>> =============================================== <<
+
+error message >> Unknown database 'rcord'
+error datetime >> 06-Feb-2023 10:24:05 AM
+>> =============================================== <<
+
+error message >> Unknown database 'rcord'
+error datetime >> 06-Feb-2023 10:24:06 AM
+>> =============================================== <<
+
+error message >> Unknown database 'rcord'
+error datetime >> 06-Feb-2023 10:27:27 AM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for localhst failed: No such host is known. 
+error datetime >> 06-Feb-2023 10:28:42 AM
+>> =============================================== <<
+
+error message >> Unknown database 'rcord'
+error datetime >> 06-Feb-2023 10:30:55 AM
+>> =============================================== <<
+
+error message >> Unknown database 'rcord'
+error datetime >> 06-Feb-2023 10:31:16 AM
+>> =============================================== <<
+
+error message >> Unknown database 'rcord'
+error datetime >> 06-Feb-2023 10:32:23 AM
+>> =============================================== <<
+
+error message >> Unknown database 'rcord'
+error datetime >> 06-Feb-2023 10:41:32 AM
+>> =============================================== <<
+
+error message >> Unknown database 'rcord'
+error datetime >> 06-Feb-2023 10:41:46 AM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for loclhost failed: No such host is known. 
+error datetime >> 06-Feb-2023 10:42:02 AM
+>> =============================================== <<
+
+error message >> Unknown database 'rcord'
+error datetime >> 06-Feb-2023 10:42:26 AM
+>> =============================================== <<
+
+error message >> Unknown database 'rcord'
+error datetime >> 06-Feb-2023 14:29:15 PM
+>> =============================================== <<
+
+error message >> Unknown database 'rcord'
+error datetime >> 06-Feb-2023 14:29:52 PM
+>> =============================================== <<

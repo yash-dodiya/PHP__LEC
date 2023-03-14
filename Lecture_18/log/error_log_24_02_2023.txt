@@ -1,0 +1,8 @@
+
+Error Message  >> Unknown column 'milansinh' in 'where clause'
+Error DateTime >> 24-Feb-2023 13:20:30 PM
+>> ======================================= <<
+
+Error Message  >> Table 'yash.cart' doesn't exist
+Error DateTime >> 24-Feb-2023 17:38:05 PM
+>> ======================================= <<

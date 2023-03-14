@@ -1,0 +1,176 @@
+
+Error Message  >> Unknown database 'yash'
+Error DateTime >> 27-Feb-2023 11:36:14 AM
+>> ======================================= <<
+
+Error Message  >> Unknown database 'yash'
+Error DateTime >> 27-Feb-2023 12:01:06 PM
+>> ======================================= <<
+
+Error Message  >> Unknown database 'yash'
+Error DateTime >> 27-Feb-2023 12:08:44 PM
+>> ======================================= <<
+
+Error Message  >> Unknown database 'yash'
+Error DateTime >> 27-Feb-2023 12:08:45 PM
+>> ======================================= <<
+
+Error Message  >> Unknown database 'yash'
+Error DateTime >> 27-Feb-2023 12:08:46 PM
+>> ======================================= <<
+
+Error Message  >> Unknown database 'yash'
+Error DateTime >> 27-Feb-2023 12:12:39 PM
+>> ======================================= <<
+
+Error Message  >> Table 'test.test' doesn't exist
+Error DateTime >> 27-Feb-2023 12:14:54 PM
+>> ======================================= <<
+
+Error Message  >> Table 'test.test' doesn't exist
+Error DateTime >> 27-Feb-2023 12:15:15 PM
+>> ======================================= <<
+
+Error Message  >> Table 'test.test' doesn't exist
+Error DateTime >> 27-Feb-2023 12:15:17 PM
+>> ======================================= <<
+
+Error Message  >> Table 'test.test' doesn't exist
+Error DateTime >> 27-Feb-2023 12:15:49 PM
+>> ======================================= <<
+
+Error Message  >> Table 'test.test' doesn't exist
+Error DateTime >> 27-Feb-2023 12:16:09 PM
+>> ======================================= <<
+
+Error Message  >> Table 'test.test' doesn't exist
+Error DateTime >> 27-Feb-2023 12:17:22 PM
+>> ======================================= <<
+
+Error Message  >> Table 'test.test' doesn't exist
+Error DateTime >> 27-Feb-2023 12:17:35 PM
+>> ======================================= <<
+
+Error Message  >> Table 'test.test' doesn't exist
+Error DateTime >> 27-Feb-2023 12:18:22 PM
+>> ======================================= <<
+
+Error Message  >> Table 'test.test' doesn't exist
+Error DateTime >> 27-Feb-2023 12:18:33 PM
+>> ======================================= <<
+
+error message >> Unknown database 'z_drivin'
+error datetime >> 27-Feb-2023 12:50:01 PM
+>> =============================================== <<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's new variant which goes beyond Galaxy to the Universe' WHERE  item_id = '3'' at line 1
+error_datetime >> 27-Feb-2023 13:29:16 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's new variant which goes beyond Galaxy to the Universe' WHERE  item_id = '3'' at line 1
+error_datetime >> 27-Feb-2023 13:29:26 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's new variant which goes beyond Galaxy to the Universe  the Universe' WHERE  ...' at line 1
+error_datetime >> 27-Feb-2023 13:52:18 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Short ' , item_price = '6.95' , item_desc = '100% Polyester, Machine wash, ...' at line 1
+error_datetime >> 27-Feb-2023 13:59:45 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Short ' , item_price = '7.95' , item_desc = '100% Polyester, Machine wash, ...' at line 1
+error_datetime >> 27-Feb-2023 13:59:55 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Short ' , item_price = '7.95' , item_desc = '100% Polyester, Machine wash, ...' at line 1
+error_datetime >> 27-Feb-2023 13:59:56 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Short ' , item_price = '7.95' , item_desc = '100% Polyester, Machine wash, ...' at line 1
+error_datetime >> 27-Feb-2023 13:59:57 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Short ' , item_price = '7.95' , item_desc = '100% Polyester, Machine wash, ...' at line 1
+error_datetime >> 27-Feb-2023 13:59:57 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Short ' , item_price = '3.95' , item_desc = '100% Polyester, Machine wash, ...' at line 1
+error_datetime >> 27-Feb-2023 14:03:54 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Short ' , item_price = '7.95' , item_desc = '100% Polyester, Machine wash, ...' at line 1
+error_datetime >> 27-Feb-2023 14:04:46 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Short ' , item_price = '4.95' , item_desc = '100% Polyester, Machine wash, ...' at line 1
+error_datetime >> 27-Feb-2023 14:06:41 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Shorts' , item_price = '7.95' , item_desc = '100% Polyester, Machine wash, ...' at line 1
+error_datetime >> 27-Feb-2023 14:08:00 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Short ' , item_price = '5.95' , item_desc = '100% Polyester, Machine wash, ...' at line 1
+error_datetime >> 27-Feb-2023 14:12:11 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Short ' , item_price = '5.95' , item_desc = '100% Polyester, Machine wash, ...' at line 1
+error_datetime >> 27-Feb-2023 14:12:45 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Short ' , item_price = '33.95' , item_desc = '100% Polyester, Machine wash,...' at line 1
+error_datetime >> 27-Feb-2023 14:12:56 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's Short ' , item_price = '7.95' , item_desc = '100% Polyester, Machine wash, ...' at line 1
+error_datetime >> 27-Feb-2023 14:13:50 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's new variant which goes beyond Galaxy to the Universe' WHERE  item_id = '3'' at line 1
+error_datetime >> 27-Feb-2023 14:36:50 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's new variant which goes beyond Galaxy to the Universe' WHERE  item_id = '3'' at line 1
+error_datetime >> 27-Feb-2023 14:38:36 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's new variant which goes beyond Galaxy to the Universe' WHERE  item_id = '3'' at line 1
+error_datetime >> 27-Feb-2023 14:41:23 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's new variant which goes beyond Galaxy to the Universe' WHERE  item_id = '3'' at line 1
+error_datetime >> 27-Feb-2023 14:50:33 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's new variant which goes beyond Galaxy to the Universe' WHERE  item_id = '3'' at line 1
+error_datetime >> 27-Feb-2023 14:52:21 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's new variant which goes beyond Galaxy to the Universe' WHERE  item_id = '3'' at line 1
+error_datetime >> 27-Feb-2023 14:54:22 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's new variant which goes beyond Galaxy to the Universe' WHERE  item_id = '3'' at line 1
+error_datetime >> 27-Feb-2023 15:38:00 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's new variant which goes beyond Galaxy to the Universe' WHERE  item_id = '3'' at line 1
+error_datetime >> 27-Feb-2023 15:38:28 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's new variant which goes beyond Galaxy to the Universe' WHERE  item_id = '3'' at line 1
+error_datetime >> 27-Feb-2023 15:38:36 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's new variant which goes beyond Galaxy to the Universe' WHERE  item_id = '3'' at line 1
+error_datetime >> 27-Feb-2023 15:39:14 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's new variant which goes beyond Galaxy to the Universe' WHERE  item_id = '3'' at line 1
+error_datetime >> 27-Feb-2023 15:41:12 PM
+>>===============================================<<
+
+error_message >> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's new variant which goes beyond Galaxy to the Universe' WHERE  item_id = '3'' at line 1
+error_datetime >> 27-Feb-2023 15:42:31 PM
+>>===============================================<<

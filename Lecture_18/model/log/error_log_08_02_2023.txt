@@ -1,0 +1,16 @@
+
+error_message >> Table 'record.country' doesn't exist
+error_datetime >> 08-Feb-2023 10:21:02 AM
+>>===============================================<<
+
+error_message >> Table 'record.country' doesn't exist
+error_datetime >> 08-Feb-2023 10:21:29 AM
+>>===============================================<<
+
+error_message >> Table 'record.users' doesn't exist
+error_datetime >> 08-Feb-2023 10:50:04 AM
+>>===============================================<<
+
+error_message >> Table 'z_drivin.usefr_det' doesn't exist
+error_datetime >> 08-Feb-2023 12:41:05 PM
+>>===============================================<<

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+</head>
+<body>
+    <form onsubmit="event.preventDefault(); checksubmit()" method="post">
+    <input type="text" name="username" id="">
+    <input type="checkbox" name="chk[]" id="cricket"><label for="cricket">cricket</label>
+    <input type="checkbox" name="chk[]" id="Music"><label for="Music">Music</label>
+    <br>
+    <input type="checkbox" name="chk[]" id="trmscondition"><label for="trmscondition"> Tearms and condition</label>
+        <input type="submit" name="" id="">
+
+    <input type="radio" name="gender" checked id="Male"> <label for="Male">Male</label>
+    <input type="radio" name="gender" id="Female"> <label for="Female">Female</label>
+    <input type="email" name="email" id="email">
+    </form>
+    <script>
+        function checksubmit() {
+
+            let FormData = $('form').serializeArray()
+            var result = { };
+            $.each($('form').serializeArray(), function() {
+                result[this.name] = this.value;
+            });
+            console.log(FormData);
+            console.log(result);
+            // fetch(url,{FormData}).then().then()
+            // var emailfilter = /^[\w._-]+[+]?[\w._-]+@[\w.-]+\.[a-zA-Z]{2,6}$/;
+            // onlynumber = /^[0-9]$/
+            // onlynumber = /^[a-z]$/
+            // onlynumber = /^[a-zA-Z]$/
+            // onlynumber = /^[a-zA-Z0-9]$/
+            // var EMAIL_REGEXP = new RegExp('^[a-z0-9]+(\.[_a-z0-9]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,15})$', 'i');  
+             // let regEx = /^+$/; //pattern 
+            // let regEx = /^[A-Z]+/; //only cap
+            // let regEx = /^[0-9]+/; //only cap
+            // let regEx = /^[a-z]+/; //only small
+            // let regEx = /^[a-zA-Z]+/; //only small
+            // let regEx = /^[a-zA-Z]+/; // alpha only 
+            let regEx = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z]{2,4})+$/; // alpha only 
+            console.log("Email Condition START" );
+            emailAdress = document.getElementById('email').value
+            console.log(regEx.test(emailAdress));
+            console.log("Email Condition END");
+            
+
+
+            console.log("Called");
+            console.log(document.getElementById("trmscondition").checked);
+            // console.log(document.getElementsByName("gender"));
+            GenderRadio = document.getElementsByName("gender");
+            for (let index = 0; index < GenderRadio.length; index++) {
+                const element = GenderRadio[index].checked;
+                console.log(element);
+            }
+            // document.getElementById("trmscondition").checked = true;
+            if (document.getElementById("trmscondition").checked) {
+                console.log("varified");
+            } else {
+                console.log("please accept tearms and condition first");                
+            }
+        }
+    </script>
+</body>
+</html>

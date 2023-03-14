@@ -174,6 +174,49 @@
 
         }
 
+        // public function update($tbl,$data,$where){
+            
+        //     $sql = "UPDATE $tbl SET ";
+        //     foreach($data as $key => $value){
+        //         $sql .= " $key = '$value' ," ;
+        //     }
+        //     $sql = trim($sql,",");
+        //     $sql .= "WHERE ";
+           
+        //     foreach($where  as $keyw => $valuew){
+        //             $sql .= " $keyw = '$valuew' AND" ;
+        //     }
+         
+        //     $sql = trim($sql,"AND");
+        
+        //     try{
+        //         $query_execute = $this->connection->query($sql);
+
+        //     }catch(Exception $e){
+        //         if(!file_exists("log")){
+        //             mkdir("log");
+        //         }
+        //         $file_name = "log/error_log_".date("d_m_Y").".txt";
+        //         $errormess = PHP_EOL."error_message >> ".$e->getMessage().PHP_EOL;
+        //         echo $errormess;
+        //         $errormess .= "error_datetime >> ".date("d-M-Y H:i:s A").PHP_EOL;
+        //         $errormess .= ">>===============================================<<".PHP_EOL;
+        //         file_put_contents($file_name,$errormess,FILE_APPEND);
+        //         exit;
+        //     }
+
+        //     if($query_execute > 0){
+        //             $Response['Code'] = 1;
+        //             $Response['Data'] = 1;
+        //             $Response['Msg'] = "Success";
+        //         }else{
+        //             $Response['Code'] = 0;
+        //             $Response['Data'] = 0;
+        //             $Response['Msg'] = "try agin";
+        //         }
+        //         return $Response;
+
+        // }
         public function update($tbl,$data,$where){
             
             $sql = "UPDATE $tbl SET ";
@@ -181,7 +224,7 @@
                 $sql .= " $key = '$value' ," ;
             }
             $sql = trim($sql,",");
-            $sql .= "WHERE ";
+            $sql .= " WHERE ";
 
             foreach($where  as $keyw => $valuew){
                     $sql .= " $keyw = '$valuew' AND" ;

@@ -1,0 +1,136 @@
+
+error message >> php_network_getaddresses: getaddrinfo for locaalhost failed: No such host is known. 
+error datetime >> 07-Feb-2023 09:30:48 AM
+>> =============================================== <<
+
+error message >> Unknown database 'reord'
+error datetime >> 07-Feb-2023 09:31:09 AM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for localhosts failed: No such host is known. 
+error datetime >> 07-Feb-2023 09:32:09 AM
+>> =============================================== <<
+
+error message >> Access denied for user 'roots'@'localhost' (using password: NO)
+error datetime >> 07-Feb-2023 09:32:27 AM
+>> =============================================== <<
+
+error message >> Unknown database 'records'
+error datetime >> 07-Feb-2023 09:33:19 AM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for llocalhost failed: No such host is known. 
+error datetime >> 07-Feb-2023 09:41:04 AM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for llocalhost failed: No such host is known. 
+error datetime >> 07-Feb-2023 09:41:23 AM
+>> =============================================== <<
+
+error message >> Unknown database 'regcord'
+error datetime >> 07-Feb-2023 09:42:05 AM
+>> =============================================== <<
+
+error message >> Access denied for user 'root1'@'localhost' (using password: NO)
+error datetime >> 07-Feb-2023 09:44:50 AM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 09:45:08 AM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 09:45:53 AM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 10:02:18 AM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 19:47:23 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 19:47:58 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 19:48:30 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 19:49:21 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 19:49:45 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 19:57:14 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 19:57:17 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 19:57:24 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 19:57:25 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 19:57:44 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 19:57:46 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 19:57:46 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 19:57:47 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 19:57:47 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 19:57:47 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 20:13:04 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 20:13:06 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 20:13:29 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 20:13:33 PM
+>> =============================================== <<
+
+error message >> php_network_getaddresses: getaddrinfo for locahost failed: No such host is known. 
+error datetime >> 07-Feb-2023 20:13:34 PM
+>> =============================================== <<
+
+error_message >> Table 'record.country' doesn't exist
+error_datetime >> 07-Feb-2023 23:42:15 PM
+>>===============================================<<
+
+error_message >> Table 'record.country' doesn't exist
+error_datetime >> 07-Feb-2023 23:51:48 PM
+>>===============================================<<
