@@ -119,7 +119,7 @@
                     <div class="row g-3">
                         <div class="col-sm-6">
                             <div class="form-floating">
-                                <input type="text" class="form-control border-0 bg-light" id="gname" name ="user_name" placeholder="Gurdian Name" required=""  >
+                                <input type="text" class="form-control border-0 bg-light" id="gname" name ="user_name">
                                 <label for="gname">Your Name</label>
                             </div>
                         </div>

@@ -131,7 +131,13 @@ class controller extends model{
                     }
                     include_once("views/footer.php");
                     break;
-
+                
+                case '/email':
+                    // include_once("views/login.php");
+                    include_once("views/email.php");
+                    
+                    include_once("views/footer.php");
+                    break;
                 case '/admindashboard':
                     $Allusers = $this->select('register');
 

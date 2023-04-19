@@ -105,7 +105,22 @@
                                 echo '<script>alert("Invalid User")</script>';
                             }
                         }
-                        break;                  
+                        break; 
+                     case '/forpass':
+                        
+                        $data = json_decode(file_get_contents('php://input'));
+                        // echo "<pre>";                        
+                        // print_r("yash");
+                        // echo "</pre>";
+                        // exit;
+
+                        $array=(array) $data;
+                        // echo "<pre>";
+                        // print_r($Result);
+
+                        $Result=$this->select("register",$array);
+                        echo json_encode($Result);
+                        break;
                         
                     case '/ajextodo':
                         include_once("views/admin/adminheader.php");

@@ -11,7 +11,7 @@
 
             background-color: white;
             margin: 10px;
-            height: 440px;
+            height: 540px;
             border: 2px solid black;
             /* padding: 2px; */
         }
@@ -545,7 +545,7 @@
                 <ul type="1">
                     <li>Ajaxtodo </li>
                     <li>todotable</li>
-                    <li>new Api file insert 1)controller
+                    <li>new Api file insert 1)controller 
                         ,2)model ,3)htaccess, 4)index</li>
                     <li></li>
                 </ul>
@@ -618,7 +618,7 @@
                 <ul type="1">
                     <li>Api select</li>
                     <li>Api insert</li>
-                    <li></li>
+                    <li>Api update</li>
                     <li></li>
                 </ul>
             </div>
@@ -690,7 +690,7 @@
                     <p>23-3-2023</p>
                 </div>
                 <ul type="1">
-                    <li></li>
+                    <li>Leave_lecture</li>
                     <li></li>
                     <li></li>
                     <li></li>
@@ -704,7 +704,7 @@
                     <p>25-2-2023</p>
                 </div>
                 <ul type="1">
-                    <li></li>
+                    <li>Leave_lecture</li>
                     <li></li>
                     <li></li>
                     <li></li>
@@ -720,7 +720,7 @@
                     <p>28-3-2023</p>
                 </div>
                 <ul type="1">
-                    <li></li>
+                    <li>Leave_lecture</li>
                     <li></li>
                     <li></li>
                     <li></li>
@@ -734,7 +734,7 @@
                     <p>30-3-2023</p>
                 </div>
                 <ul type="1">
-                    <li></li>
+                    <li>Leave_lecture</li>
                     <li></li>
                     <li></li>
                     <li></li>
@@ -748,7 +748,7 @@
                     <p>01-4-2023</p>
                 </div>
                 <ul type="1">
-                    <li></li>
+                    <li>Leave_lecture</li>
                     <li></li>
                     <li></li>
                     <li></li>
@@ -756,17 +756,26 @@
             </div>
         </div>
     </div>
+
+    <h1 style="color: red;text-align: center;">Laravel</h1>
+
     <div class="row">
         <div class="col-30">
             <div class="card">
                 <div class="title">
-                    <h2>Lecture--</h2>
+                    <h2>Lecture--1</h2>
                     <p>04-4-2023</p>
                 </div>
                 <ul type="1">
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>intro</li>
+                    <li>Laravel installation</li>
+                    <li>composer install</li>
+                    <li>cmd command run</li>
+                    <li>route -> webfile(handling)</li>
+                    <li>resource file save </li>
+                    <li>resource -> .blade.php file save</li>
+                    <li>composer create-project laravel/laravel-my project</li>
+                    <li>php artisan serve - laravel strat</li>
                     <li></li>
                 </ul>
             </div>
@@ -774,28 +783,53 @@
         <div class="col-30">
             <div class="card">
                 <div class="title">
-                    <h2>Lecture--</h2>
+                    <h2>Lecture--2</h2>
                     <p>06-4-2023</p>
                 </div>
                 <ul type="1">
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>install authentication  - install starter kit</li>
+                    <li>npm install -windows</li>
+                    <li>composer require laravel/breeze --dev</li>
+                    <li>php artisan breeze install</li>
+                    <li>php artisan migrate (make a table)</li>
+                    <li>(1)get(2)post(3)any(4)view(5)patch(6)delate
+                        (7)resource</li>
+                    <li>Add product button</li>
+                    <li>php artisan make:migration test</li>
+                    <li>php artisan migrate</li>
+                    <li>php artisan make:migarte create_products_table</li>
+                    <li>timestamps -->insert_at , update_at make</li>
+                    <li>$table->string(product_title)</li>
+                    <li>migration changes </li>
+                    <li>php artisan make:migration create_productimg_table --table=product</li>
+                    <li>php artisan migrate</li>
                 </ul>
             </div>
         </div>
         <div class="col-30">
             <div class="card">
                 <div class="title">
-                    <h2>Lecture--</h2>
+                    <h2>Lecture--3</h2>
                     <p>08-4-2023</p>
                 </div>
                 <ul type="1">
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>blade in laravel template</li>
+                    <li>laravel use data add hello ,{{$id}}</li>
+                    <li>$composer require laravelcollective/html</li>
+                    <li>addnewproduct.blade.php make a form</li>
+                    <li>php artisan make:controller test</li>
+                    <li>php artisan make:controller product --resource 
+                        (make 2 controller)</li>
+                    <li>Page expired Error (form action="saveproduct"method="post")
+                        --->@csrf  -----page expired
+                    </li>
+                    <li>move in laravel public folder</li>
+                    <li>model(Eloqunt) in laravel</li>
+                    <li>query builder laravel  -->(1)insert(2)update(3)delate</li>
+                    <li>php artisan make:model productTable -mcr(migration,
+                        conytoller,resource)</li>
+                    <li>product controller index after store function (image,request data get)</li>
+                    <li>$productTable->product_title=$request->product_title;</li>
                 </ul>
             </div>
         </div>
@@ -804,28 +838,56 @@
         <div class="col-30">
             <div class="card">
                 <div class="title">
-                    <h2>Lecture--</h2>
+                    <h2>Lecture--4</h2>
                     <p>11-4-2023</p>
                 </div>
                 <ul type="1">
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>show view product</li>
+                    <li>Route::get('/product',[App\http\controllers\ProductTableController::class, 
+                        'index']);</li>
+                    <li>index --->return view('listallproduct',compact())</li>
+                <li>@foreach($productData as $data)
+                <td>{{ $data->product_title}}</td></li>
+                <li><td><a href="editpro/{{$data->id}}">Edit</a>
+                    <a href="delatepro/{{$data->id}}">Delate</a></td> </li>
+
+                 <li>delate --->Route::get('/delatepro/{id}',[App\http\controllers\
+                    ProductTableController::class, 'destroy']);</li>
+                    <li>productTablecontroller -->function destroy
+                     public function destroy($id,productTable $productTable)
+                     -- $productById->delete($id);
+                     redirect --->return redirect('product')->with('status', 'Record 
+                     delated successfully');</li>
+                     <li></li>
                 </ul>
             </div>
         </div>
         <div class="col-30">
             <div class="card">
                 <div class="title">
-                    <h2>Lecture--</h2>
+                    <h2>Lecture--5</h2>
                     <p>13-4-2023</p>
                 </div>
                 <ul type="1">
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Route::post('/updatepro/{id}',[App\http\controllers\
+                        ProductTableController::class, 'update']);</li>
+                        <li> @if (session('insert-status'))<div class="alert alert-succeess">
+                                {{ session('insert-status') }}</div>@endif</li>
+                    <li>value="{{$productById->product_title ??""}}" data find</li>
+                    <li><td><img src="images/{{$data->product_image}}" width="100px"alt="images"></td></li>
+                    <li>@if(isset($productById))   
+                        <form action="/updatepro/{{ $productById->id}}" method="post" enctype="multipart/form-data">
+                        @else <form action="/saveproduct" method="post" enctype="multipart/form-data">
+                        @endif</li>
+                        <li> public function update($id,Request $request, productTable 
+                            $productTable)</li>
+                        <li>$data=$request->except(['_token','btn-save']);</li>
+                        <li>return redirect('product')->with('update-status', 'Record update successfully');</li>
+                    <li>model function </li>
+                    <li>public function customfunctiomn($insertproduct,$productTable){
+                        foreach ($insertproduct as $key => $value) {$productTable-> $key = $value;
+                        }$productTable->save();return redirect('product')->with('insert-status',
+                         'Record Added successfully');</li>
                 </ul>
             </div>
         </div>
