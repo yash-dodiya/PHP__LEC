@@ -30,13 +30,13 @@
             </form>
             
             <script>
-            function savetododata(params){
+            function savetododagit ta(params){
                 console.log("savetododata called");
                 var result = {};
                 $.each($('#myform').serializeArray(), function() {
                     result[this.name] = this.value;
                 });
-                console.log(result);
+                console.log(result);    
                 fetch("http://localhost/PHP___LEC/Lecture_19/inserttodo",{
                 method: 'POST',
                 headers: {
